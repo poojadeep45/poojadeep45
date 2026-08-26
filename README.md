@@ -20,8 +20,8 @@ focused on **backend development** and **AI/ML**.
 ## 📌 Featured Projects
 
 - **[SOC_L1-Wazuh_Labs-](https://github.com/poojadeep45/SOC_L1-Wazuh_Labs-)** — SOC Level 1 labs using Wazuh
-- **Student Management API** — (https://github.com/poojadeep45/StudentManagementAPI) A full-featured Spring Boot REST API originally built during a Spring Boot internship at Systems Limited. Covers CRUD with Jakarta validation, a six-entity JPA schema (Student, Department, Address, ContactInfo, Instructor, Course, Enrollment), JWT + OAuth 2.0/OIDC security, three-layer testing, and a full deployment pipeline — Dockerized, published to Docker Hub, deployed via GitHub Actions CI/CD to Railway with managed MySQL
-- **Intelligent Healthcare Platform (FYP)** — A full-stack digital health platform with AI-assisted symptom checking, doctor consultation, and appointment/pharmacy/lab booking.
+- **[Student Management API](https://github.com/poojadeep45/StudentManagementAPI)** A full-featured Spring Boot REST API originally built during a Spring Boot internship at Systems Limited. Covers CRUD with Jakarta validation, a six-entity JPA schema (Student, Department, Address, ContactInfo, Instructor, Course, Enrollment), JWT + OAuth 2.0/OIDC security, three-layer testing, and a full deployment pipeline — Dockerized, published to Docker Hub, deployed via GitHub Actions CI/CD to Railway with managed MySQL
+- **Intelligent Healthcare Platform (FYP)[https://github.com/AyeshaAhmed1573/Health_management_system]** — A full-stack digital health platform with AI-assisted symptom checking, doctor consultation, and appointment/pharmacy/lab booking.
 ## 📫 Reach Me
 
 - LinkedIn: https://www.linkedin.com/in/pooja-deep-1bb950276/
