@@ -2,8 +2,8 @@
 Final-year Computer Science student at the University of Karachi (DCS-UBIT), 
 focused on **backend development** and **AI/ML**.
 
-<p align="center">
-  <img "https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260902T090452Z&X-Amz-Expires=300&X-Amz-Signature=6fc1eb10f97687856ccce1799e2c007dea28b9341bb5b8f4a8f197f2ba9d2095&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif" width = "450">
+<p align="right">
+  <img "https://camo.githubusercontent.com/dceb9e77d81dbe0133cc4f97d9eaa55b38f374813755fc40f6729dd7c1b7a53d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966" width = "450">
 </p>
 
 - 🔭 Currently building an Intelligent Healthcare Platform as my Final Year Project
