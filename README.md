@@ -1,5 +1,4 @@
 # Hi, I'm Pooja 👋
-
 Final-year Computer Science student at the University of Karachi (DCS-UBIT), 
 focused on **backend development** and **AI/ML**.
 
@@ -9,6 +8,14 @@ focused on **backend development** and **AI/ML**.
 - 📍 Based in Karachi, Pakistan
 
 ## 🛠️ Tech Stack
+
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Python](https://skillicons.dev/icons?i=python)
+![GithubActions](https://skillicons.dev/icons?i=githubactions)
+![Git](https://skillicons.dev/icons?i=git)
 
 **Backend:** Java, Spring Boot, Spring Data JPA, Spring Security (JWT, OAuth 2.0/OIDC), REST APIs  
 **Database:** MySQL, H2  
@@ -20,9 +27,15 @@ focused on **backend development** and **AI/ML**.
 ## 📌 Featured Projects
 
 - **[SOC_L1-Wazuh_Labs-](https://github.com/poojadeep45/SOC_L1-Wazuh_Labs-)** — SOC Level 1 labs using Wazuh
-- **[Student Management API](https://github.com/poojadeep45/StudentManagementAPI)** A full-featured Spring Boot REST API originally built during a Spring Boot internship at Systems Limited. Covers CRUD with Jakarta validation, a six-entity JPA schema (Student, Department, Address, ContactInfo, Instructor, Course, Enrollment), JWT + OAuth 2.0/OIDC security, three-layer testing, and a full deployment pipeline — Dockerized, published to Docker Hub, deployed via GitHub Actions CI/CD to Railway with managed MySQL
-- **Intelligent Healthcare Platform (FYP)[https://github.com/AyeshaAhmed1573/Health_management_system]** — A full-stack digital health platform with AI-assisted symptom checking, doctor consultation, and appointment/pharmacy/lab booking.
-## 📫 Reach Me
+- **[Student Management API](https://github.com/poojadeep45/StudentManagementAPI)** — A full-featured Spring Boot REST API originally built during a Spring Boot internship at Systems Limited. Covers CRUD with Jakarta validation, a six-entity JPA schema (Student, Department, Address, ContactInfo, Instructor, Course, Enrollment), JWT + OAuth 2.0/OIDC security, three-layer testing, and a full deployment pipeline — Dockerized, published to Docker Hub, deployed via GitHub Actions CI/CD to Railway with managed MySQL
+- **[Intelligent Healthcare Platform (FYP)](https://github.com/AyeshaAhmed1573/Health_management_system)** — A full-stack digital health platform with AI-assisted symptom checking, doctor consultation, and appointment/pharmacy/lab booking.
 
+## 📊 GitHub Stats
+
+![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojadeep45&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=poojadeep45&theme=tokyonight)
+
+## 📫 Reach Me
 - LinkedIn: https://www.linkedin.com/in/pooja-deep-1bb950276/
-- Email: poojadeeo684@gmail.com
+- Email: poojadeep684@gmail.com
