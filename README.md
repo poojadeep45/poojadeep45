@@ -3,7 +3,7 @@ Final-year Computer Science student at the University of Karachi (DCS-UBIT),
 focused on **backend development** and **AI/ML**.
 
 - 🔭 Currently building an Intelligent Healthcare Platform as my Final Year Project
-- 🔐 Exploring security fundamentals through SOC / Wazuh labs
+- - 🧩 Currently working on microservices architecture
 - 🌱 Building and deploying production-style backend systems with Spring Boot
 - 📍 Based in Karachi, Pakistan
 
@@ -26,7 +26,6 @@ focused on **backend development** and **AI/ML**.
 
 ## 📌 Featured Projects
 
-- **[SOC_L1-Wazuh_Labs-](https://github.com/poojadeep45/SOC_L1-Wazuh_Labs-)** — SOC Level 1 labs using Wazuh
 - **[Student Management API](https://github.com/poojadeep45/StudentManagementAPI)** — A full-featured Spring Boot REST API originally built during a Spring Boot internship at Systems Limited. Covers CRUD with Jakarta validation, a six-entity JPA schema (Student, Department, Address, ContactInfo, Instructor, Course, Enrollment), JWT + OAuth 2.0/OIDC security, three-layer testing, and a full deployment pipeline — Dockerized, published to Docker Hub, deployed via GitHub Actions CI/CD to Railway with managed MySQL
 - **[DocuSense](https://github.com/poojadeep45/docusense)** — An AI-powered document summarization API. Upload a PDF, DOCX, or TXT file and it extracts the text and generates a summary via Google Gemini, processed asynchronously behind JWT-secured, per-user access. Dockerized and deployed live, with CI running the test suite on every push.
 - **[Intelligent Healthcare Platform (FYP)](https://github.com/AyeshaAhmed1573/Health_management_system)** — A full-stack digital health platform with AI-assisted symptom checking, doctor consultation, and appointment/pharmacy/lab booking.
