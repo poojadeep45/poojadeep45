@@ -3,7 +3,7 @@ Final-year Computer Science student at the University of Karachi (DCS-UBIT),
 focused on **backend development** and **AI/ML**.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="400">
+  <img src="[https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=460&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+AI-Integrated+Systems;Final-Year+CS+Student+at+UBIT" alt="Typing SVG)" width="400">
 </p>
 
 - 🔭 Currently building an Intelligent Healthcare Platform as my Final Year Project
