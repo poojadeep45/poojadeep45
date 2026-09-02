@@ -3,7 +3,7 @@ Final-year Computer Science student at the University of Karachi (DCS-UBIT),
 focused on **backend development** and **AI/ML**.
 
 - 🔭 Currently building an Intelligent Healthcare Platform as my Final Year Project
-- - 🧩 Currently working on microservices architecture
+-  🧩 Currently working on microservices architecture
 - 🌱 Building and deploying production-style backend systems with Spring Boot
 - 📍 Based in Karachi, Pakistan
 
