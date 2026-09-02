@@ -2,10 +2,6 @@
 Final-year Computer Science student at the University of Karachi (DCS-UBIT), 
 focused on **backend development** and **AI/ML**.
 
-<p align="right">
-  <img "https://camo.githubusercontent.com/dceb9e77d81dbe0133cc4f97d9eaa55b38f374813755fc40f6729dd7c1b7a53d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966" width = "450">
-</p>
-
 - 🔭 Currently building an Intelligent Healthcare Platform as my Final Year Project
 - - 🧩 Currently working on microservices architecture
 - 🌱 Building and deploying production-style backend systems with Spring Boot
