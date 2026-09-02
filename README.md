@@ -35,7 +35,7 @@ focused on **backend development** and **AI/ML**.
 
 ![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojadeep45&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=poojadeep45&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=poojadeep45&theme=tokyonight)
 
 ## 📫 Reach Me
 - LinkedIn: https://www.linkedin.com/in/pooja-deep-1bb950276/
