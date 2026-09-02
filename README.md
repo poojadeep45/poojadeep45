@@ -3,7 +3,7 @@ Final-year Computer Science student at the University of Karachi (DCS-UBIT),
 focused on **backend development** and **AI/ML**.
 
 <p align="center">
-  <img "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d">
+  <img "https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260902T090452Z&X-Amz-Expires=300&X-Amz-Signature=6fc1eb10f97687856ccce1799e2c007dea28b9341bb5b8f4a8f197f2ba9d2095&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif">
 </p>
 
 - 🔭 Currently building an Intelligent Healthcare Platform as my Final Year Project
