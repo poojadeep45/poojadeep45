@@ -35,7 +35,6 @@ focused on **backend development**.
 ![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojadeep45&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=poojadeep45&theme=tokyonight)
-https://camo.githubusercontent.com/d0f3ceada97ad552b5b9c1561d13a1c37732f45149956cd3a45085daadc580f9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696672616832343034266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 ## 📫 Reach Me
 - LinkedIn: https://www.linkedin.com/in/pooja-deep-1bb950276/
 - Email: poojadeep684@gmail.com
