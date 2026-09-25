@@ -1,6 +1,6 @@
 # Hi, I'm Pooja 👋
 Final-year Computer Science student at the University of Karachi (DCS-UBIT), 
-focused on **backend development** and **AI/ML**.
+focused on **backend development**.
 
 - 🔭 Currently building an Intelligent Healthcare Platform as my Final Year Project
 -  🧩 Currently working on microservices architecture
@@ -18,8 +18,7 @@ focused on **backend development** and **AI/ML**.
 ![Git](https://skillicons.dev/icons?i=git)
 
 **Backend:** Java, Spring Boot, Spring Data JPA, Spring Security (JWT, OAuth 2.0/OIDC), REST APIs  
-**Database:** MySQL, H2  
-**AI/ML:** Python, scikit-learn  
+**Database:** MySQL, H2    
 **DevOps:** Docker, Docker Compose, GitHub Actions (CI/CD), Railway  
 **Security:** Wazuh, SOC fundamentals  
 **Testing:** JUnit, Mockito, @DataJpaTest, @WebMvcTest
