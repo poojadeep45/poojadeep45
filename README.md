@@ -31,10 +31,14 @@ focused on **backend development**.
 - **[Intelligent Healthcare Platform (FYP)](https://github.com/AyeshaAhmed1573/Health_management_system)** — A full-stack digital health platform with AI-assisted symptom checking, doctor consultation, and appointment/pharmacy/lab booking.
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=poojadeep45&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojadeep45&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=poojadeep45&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=poojadeep45&theme=tokyonight)
 ## 📫 Reach Me
 - LinkedIn: https://www.linkedin.com/in/pooja-deep-1bb950276/
 - Email: poojadeep684@gmail.com
